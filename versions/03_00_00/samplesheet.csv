@@ -1,0 +1,5 @@
+sample,filtered,min_counts_cell,min_genes,max_mito_percentage
+bangert,../data/bangert.h5ad,1797,357,15
+he,../data/he.h5ad,,,
+rindler,../data/rindler.h5ad,2223,268,15
+rojahn,../data/rojahn.h5ad,1716,190,15

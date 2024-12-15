@@ -1,0 +1,1 @@
+nextflow run /nfs/data/COST_IBD/SIMBA -profile apptainer,extend,gpu,keep_work -resume --base atlas.h5ad --model model

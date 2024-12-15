@@ -1,0 +1,6 @@
+id,input_adata,min_counts,min_genes,max_pct_mito
+bangert,../data/bangert.h5ad,1797,357,15
+gao,../data/gao.h5ad,962,461,15
+he,../data/he.h5ad,,,
+rindler,../data/rindler.h5ad,2223,268,15
+rojahn,../data/rojahn.h5ad,1716,190,15

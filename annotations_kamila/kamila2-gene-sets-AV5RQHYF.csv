@@ -1,0 +1,5 @@
+# Gene set generated on 2024-10-25T14:39:05 using cellxgene version 1.2.0
+# Input data file was /atlas/atlas.h5ad, which was last modified on 2024-10-22T22:59:09
+gene_set_name,gene_set_description,gene_symbol,gene_description
+ker,,S100A14,
+ker,,TP63,
